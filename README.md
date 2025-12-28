@@ -5,6 +5,8 @@
 - 🎈 Dev Partner of Robert ( [robertstuendl.com](https://robertstuendl.com) ).
 - 📕 The rest of the time, theoretically I'm a student.
 - 📫 How to reach me: Username is the same everywhere except instagram so it shouldn't be a problem.
+- 💻 I use: Tailscale, Mullvad, NixOS, Tails Linux
+
 
 <!---
 SpaceBoySnens/SpaceBoySnens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
